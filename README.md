@@ -5,4 +5,3 @@
 
 
 # PIC32CK2051 USB 範例程式的執行結果 (以 MPLAB Data Visualizer 觀察)
-<img width="635" height="343" alt="image" src="https://github.com/user-attachments/assets/fe140991-803d-420e-8fcc-2cf1b00ea7ed" />
