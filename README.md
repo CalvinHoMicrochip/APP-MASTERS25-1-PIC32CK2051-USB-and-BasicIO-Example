@@ -1,4 +1,4 @@
-# APP-MASTERS25-1-PIC32CK2051-USB-and-BasicIO-Example
+# APP-MASTERS25-1-PIC32CK2051 USB、ADC and I2C 的範例程式
 
 # IC32CK2051 USB 範例程式使用到的的 MCC Harmony 元件
 <img width="700" height="325" alt="image" src="https://github.com/user-attachments/assets/34690f48-7247-49b4-a852-5ca94d72d8d6" />
